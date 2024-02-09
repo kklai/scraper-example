@@ -2,6 +2,8 @@
 
 How to write a scraper
 
+First run `npm install`. This sets you up with the libraries needed to run the js file.
+
 Part 1 - Download html files
 1. Download html files. Read details in `dl-html.js`. You can run this file with `node dl-html.js`.
 2. This creates a shell file called `dl-html.sh`
