@@ -1,1 +1,17 @@
 # scraper-example
+
+How to write a scraper
+
+Part 1 - Download html files
+1. Download html files by running `node dl-html.js`
+2. This creates a shell file called `dl-html.sh`
+3. Then you have to add permission to this file `chmod 777 dl-html.sh`
+4. Then you can run the download file `./dl-html.sh`
+5. This should download a bunch of html files into the `html` folder
+
+Part 2 - Download images
+1. Read the html files and figure out what the image url. Read details in `node dl-images.js`
+2. This creates a shell file called `dl-images.sh`
+3. Then you have to add permission to this file `chmod 777 dl-images.sh`
+4. Then you can run the download file `./dl-images.sh`
+5. This should download a bunch of images into the `images` folder
