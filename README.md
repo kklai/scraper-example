@@ -15,3 +15,6 @@ Part 2 - Download images
 3. Then you have to add permission to this file `chmod 777 dl-images.sh`
 4. Then you can run the download file `./dl-images.sh`
 5. This should download a bunch of images into the `images` folder
+
+Part 3 - Manual process..
+A bunch of the wiki entries didn't have images. So I googled and downloaded the images manually.
